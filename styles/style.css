@@ -87,6 +87,12 @@ content {
 p {
     margin: var(--gutter);
 }
+l3   {
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS';
+
+}
   
 footer {
     position: fixed;
